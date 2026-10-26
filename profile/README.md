@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.grovlix.com">
-    <img src="https://www.grovlix.com/grovlix-logo.svg" alt="Grovlix" width="96" height="96">
+    <img src="https://www.grovlix.com/grovlix-logo.svg" alt="Grovlix" width="220">
   </a>
 </p>
 
