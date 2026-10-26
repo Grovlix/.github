@@ -22,8 +22,12 @@
 
 ### Products
 
-- **[PopupSnap](https://popupsnap.com/en)**: smart popups, spin wheels, countdowns and shoppable feeds that turn browsers into buyers. Includes InstaFeed and Product Studio.
-- **[PopAuto](https://popautomate.com/en)**: schedule discounts, price changes and product visibility, so every offer starts and ends on time.
+| App | What it does |
+| --- | --- |
+| **[PopupSnap](https://popupsnap.com/en)** | Smart popups, spin wheels, countdowns and a free-shipping bar that turn browsers into buyers. |
+| **[InstaFeed](https://popupsnap.com/product/instafeed)** | Shoppable Instagram and TikTok feeds, highlights and videos right on your store pages. |
+| **[Product Studio](https://popupsnap.com/product/product-studio)** | Let shoppers personalize products with text, colors and live preview, with print-ready files for every order. |
+| **[PopAuto](https://popautomate.com/en)** | Schedule discounts, price changes and product visibility, so every offer starts and ends on time. |
 
 ### Open source
 
